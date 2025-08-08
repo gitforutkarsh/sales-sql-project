@@ -1,15 +1,15 @@
 # Sales SQL Project
 
-## 📌 Overview
+## Overview
 This project analyzes a mock sales database using SQL. It demonstrates the use of SQL for creating schemas, inserting data, and performing complex business analysis queries.
 
-## 🧱 Database Schema
+## Database Schema
 - `customers`: Stores customer info
 - `products`: Stores product details
 - `orders`: Orders placed by customers
 - `order_items`: Items in each order
 
-## 🧪 SQL Features Used
+## SQL Features Used
 - Joins
 - Aggregation (SUM, COUNT)
 - Group By
@@ -17,7 +17,7 @@ This project analyzes a mock sales database using SQL. It demonstrates the use o
 - Window Functions
 - Subqueries
 
-## 📊 Key Analyses
+## Key Analyses
 - Top cities by sales
 - Most sold product
 - Monthly revenue trend
@@ -29,4 +29,4 @@ This project analyzes a mock sales database using SQL. It demonstrates the use o
 3. Run `analysis_queries.sql` to get insights
 
 ## 🔗 Author
-Made with ❤️ by [Your Name]
+Utkarsh :)
